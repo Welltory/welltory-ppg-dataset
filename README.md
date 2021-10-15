@@ -23,7 +23,9 @@ Each folder "subject_.." contains:
 Please refer to datatypes.md for data format description
 
 ## Citation and copyright
-This dataset can be used freely for research purposes. If you use this dataset in your research, please add a reference to this dataset.
+This dataset can be used freely for research purposes. If you use this dataset in your research, please cite this publication:
+
+> Neshitov, A.; Tyapochkin, K.; Smorodnikova, E.; Pravdin, P. Wavelet Analysis and Self-Similarity of Photoplethysmography Signals for HRV Estimation and Quality Assessment. Sensors 2021, 21, 6798. https://doi.org/10.3390/s21206798
 
 ## Contact
 Konstantin Tyapochkin, konstantin (at) welltory.com
